@@ -1,0 +1,6 @@
+Jose Chiari,Habitacion Sencilla,Internet,15-12-16,15-12-16
+Gabriela,VIP Suite,Internet,12/dic/16,15/dic/16
+
+Jose Chiari , Habitacion Sencilla, Cable Tv, 12-dic-16, 13-dic-16
+Jose, Habitacion Sencilla, Cable Tv, 15-12-16, 16-12-16
+jose, Habitacion Sencilla, Internet, 12.12.16, 13.12.16
